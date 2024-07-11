@@ -1,5 +1,6 @@
 # Hey!!
 I'm currently working on Machine Learning | NLP | Python<br>
+R&D Engineer at Reverie Language Technologies , Bengaluru
 
 
 ## 🌐 Socials:
