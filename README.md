@@ -1,6 +1,6 @@
 # Hey!!
 I'm currently working on ASR | Multilingual Speech Recognition | Computer Vision | NLP <br>
-R&D Engineer at Reverie Language Technologies (JIO) , Bengaluru
+SWE-R&D at Reverie Language Technologies (JIO) , Bengaluru
 
 
 ## 🌐 Socials:
